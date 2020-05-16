@@ -1,4 +1,5 @@
 from random import randint
+pytest.exe -s
 
 options = ["Piedra", "Papel", "Tijeras"]
 
